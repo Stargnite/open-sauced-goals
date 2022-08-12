@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "KodeIt/frontend",
+    "stargazers_count": 0,
+    "open_issues_count": 4,
+    "forks_count": 1
+  },
+  {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 59611,
-    "open_issues_count": 14,
+    "stargazers_count": 59614,
+    "open_issues_count": 16,
     "forks_count": 2995
   }
 ]
